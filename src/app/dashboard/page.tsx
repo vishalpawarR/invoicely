@@ -22,7 +22,7 @@ function page() {
           asChild
         >
           <Link
-            href='/invoices'
+            href='/invoice/new'
             className='gap-2'
           >
             <CirclePlus className='h-4 w-4' />
